@@ -1,0 +1,6 @@
+Trim Control:
+
+Based on https://www.youtube.com/watch?v=NtZkQudqH2U and https://www.thingiverse.com/thing:4290141
+
+Trim - Software for an Arduino Leonardo to emulate a Trim wheel with a KY040 rotary encoder 
+TrimMicro - Software for an Arduino Micro Pro to emulate a Trim wheel with a KY040 rotary encoder 
